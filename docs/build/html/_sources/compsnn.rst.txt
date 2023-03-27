@@ -1,0 +1,7 @@
+compsnn module
+==============
+
+.. automodule:: compsnn
+   :members:
+   :autosummary:
+
